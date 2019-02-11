@@ -761,7 +761,8 @@ ul.social-icons.two {
     padding: 19px 10px;
     margin-bottom: 24px;
     outline: none;
-    border: 2px solid #00a78e;head}
+    border: 2px solid #00a78e;
+}
 .mail_right textarea {
 	height:200px; 
 	resize:none;	
@@ -775,7 +776,8 @@ ul.social-icons.two {
     padding: 13px 40px;
 }
 .mail_right input[type="submit"]:hover{
- background: #00a78e;	    transition: 0.5s all ease;
+ background: #00a78e;
+	    transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
     -o-transition: 0.5s all ease;
@@ -812,7 +814,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-    background: url(../images/contact.jpg) no-repeat center top;
+    background: url(../images/bg4.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1647,7 +1649,7 @@ background: url(../images/myskill-b.jpg) no-repeat 0px 0px;
 	min-height:93px;
 }
 .about-back{
-background: url(../images/myskill-b.jpg) no-repeat 0px 0px;
+background: url(../images/about-b.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
